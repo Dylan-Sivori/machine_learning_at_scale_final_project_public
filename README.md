@@ -1,0 +1,5 @@
+Machine Learning at Scale Final Project. We used a provided provided dataset and appled the concepts of machine learning at scale using pyspark to predict flight delays two hours prior to departure time.
+The final project paper can be found at [Final Project Paper](https://github.com/Dylan-Sivori/machine_learning_at_scale_final_project_public/blob/main/w261_FP_Phase_3_Team_2_1.ipynb). My particular contribution can be found in the following notebooks:
+- [Data Preprocessing Prior to Feature Engineering](https://github.com/Dylan-Sivori/machine_learning_at_scale_final_project_public/blob/main/w261_FP_Phase_3_Data%20Preprocessing_EDA_Team_2_1_Code_Notebook.ipynb)
+- [Baseline Logistic Regression Model](https://github.com/Dylan-Sivori/machine_learning_at_scale_final_project_public/blob/main/w261_FP_Phase_3_Baseline_Team_2_1_Code_Notebook%20(Logistics).ipynb)
+- [Final Ensemble of Ensembles Model](https://github.com/Dylan-Sivori/machine_learning_at_scale_final_project_public/blob/main/w261_FP_Phase_3_Baseline_Team_2_1_Code_Notebook%20(EnsembleOfEnsembles).ipynb)
